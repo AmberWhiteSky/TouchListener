@@ -16,7 +16,7 @@
 //    NSLog(@"touchesBegan");
     UITouch *touch =[touches anyObject];
     //短时间内按的次数  判断用户短时间内点击了多少次
-    NSLog(@"%lu",touch.tapCount);
+//    NSLog(@"%lu",touch.tapCount);
 
 }
 //触摸ing
